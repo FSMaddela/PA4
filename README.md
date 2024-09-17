@@ -9,17 +9,23 @@ Using data wrangling and data visualization technique with storytelling, analyze
 
 ### Data Frames Problem:
 
-The data frame is arranged to provide information about exam takers who qualifies for the given specifications.
+The data frame is arranged to provide information about exam takers who qualifies for the given specifications, using basic knowledge of data analysis techniques. 
 
 
 ### Visualization Problem:
 
-Using a bar graph, several demographic factors are graphed to see their relationship with the average scores of exam takers. <br>
+Using a bar graph, several demographic factors are graphed to see their relationship with the average scores of each exam takers. <br>
 The bar graph is created using matpilotlib and [seaborn](https://seaborn.pydata.org/tutorial/categorical.html) <br>
+
+
+
 
 
 ## Dependencies
 ECE Boards 2 Data - [board2.xlsx](https://github.com/user-attachments/files/17025321/board2.xlsx)
+
+
+
 
 ## Version History
 
